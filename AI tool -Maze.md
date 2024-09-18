@@ -19,5 +19,5 @@ Maze is an AI-powered user testing and prototyping tool that allows designers to
 -Maze significantly sped up the testing phase, allowing rapid iterations based on real user feedback. The AI analysis helped identify pain points in the design, though some manual interpretation was still needed for complex user behavior.
 
 -`Cost`
-Maze offers a free tier for small projects. Paid plans start at £
-99/month for more advanced features and larger teams.
+Maze offers a free tier for small projects. Paid plans start at £99
+/month for more advanced features and larger teams.
